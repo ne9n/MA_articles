@@ -33,7 +33,7 @@ Operating seven days during AirVenture week, KidVenture runs two circles for you
 Together, the training circles handle 1,400 to 1,800 youth flights per week, peaking at 2,500 flights. Operations rely on tight coordination between the instructor pilot and the pit crew.
 
 ### The Ground Briefing
-When a young flyer enters the circle, registration volunteers fit them with safety glasses and introduce their instructor pilot. In the center of the 50-foot training circle, the instructor delivers a concise pre-flight briefing:
+When a young flyer enters the circle, registration volunteers introduce their instructor pilot. In the center of the 50-foot training circle, the instructor delivers a concise pre-flight briefing:
 * **Elevator Operation:** Tilting the wrist backward pulls the top line, raising the elevator to climb; tilting forward lowers the elevator to descend.
 * **Arm Extension & Line Tension:** Keeping the arm steady and walking in rhythm maintains the outward line tension needed to control the aircraft against gusting Oshkosh winds.
 
