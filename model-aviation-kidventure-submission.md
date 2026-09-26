@@ -20,9 +20,9 @@ At KidVenture, the Control Line (CL) circles give young attendees the tactile th
 
 ## The Roots of KidVenture Control Line
 
-Control line flying at Oshkosh predates KidVenture. Seeking hands-on youth activities, Sean Elliott—a former Junior National Stunt Champion and future EAA Vice President—teamed up with Jim Krueger and the Milwaukee Circle Masters (AMA Charter #662).
+Control line flying at Oshkosh predates KidVenture. Seeking hands-on youth activities, Sean Elliott—a former Junior National Stunt Champion and future EAA Vice President—teamed up with Jim Krueger and the Milwaukee Circle Masters (AMA Charter #662).  This was to provide an activity for younger attendees at the EAA fly-in
 
-The initiative expanded after a memorable recruiting flight. Elliott flew EAA's full-scale *Spirit of St. Louis* replica to the annual SIG Manufacturing contest in Montezuma, Iowa. Landing on the turf, Elliott and Krueger approached competitor Dan McEntee to recruit St. Louis modelers, including Bob Arata and Jan Potts, to join the Oshkosh flight line crew. That handshake in Iowa ignited an aeromodeling partnership that has united clubs across the Midwest for decades.
+The initiative expanded after a memorable recruiting flight. Elliott flew EAA's full-scale *Spirit of St. Louis* replica to the annual SIG Manufacturing control contest in Montezuma, Iowa. Landing on the turf, Elliott and Krueger approached competitor Dan McEntee to recruit St. Louis modelers, including Bob Arata and Jan Potts, to join the Oshkosh flight line crew. That handshake in Iowa ignited an aeromodeling partnership that has united clubs across the Midwest for decades.
 
 ---
 
@@ -38,9 +38,9 @@ When a young flyer enters the circle, registration volunteers introduce their in
 * **Arm Extension & Line Tension:** Keeping the arm steady and walking in rhythm maintains the outward line tension needed to control the aircraft against gusting Oshkosh winds.
 
 ### Pit Crew & Hand Launch
-At the perimeter, the pit crew prepares the airplane. Because operations take place on rough turf right alongside Pioneer Airport's active grass runway, the trainers omit landing gear for grass durability.
-1. The pit crew member inspects the leadouts, connects the 3S LiPo battery, and arms the solid-state electronic timer.
-2. With the motor spooling up to governed RPM, the pit crew holds the model level and delivers a smooth, steady hand launch along the circular flight path.
+At the perimeter, the pit crew prepares the airplane.
+1. The pit crew member inspects the leadouts, connects the 3S LiPo battery, and starts the timer.
+2. With the motor spooling up to governed RPM, the pit crew launches the airplane. 
 
 ### The Dual-Handle Technique
 As the airplane takes to the air, the instructor pilot stands side-by-side with the student. Using the dual-handle coaching method pioneered by the late Bob Arata and master instructors like Paul Barbour, the instructor places a reassuring hand directly over the student's on the handle.
