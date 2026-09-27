@@ -33,7 +33,7 @@ Operating seven days during AirVenture week, KidVenture runs two circles for you
 Together, the training circles handle 1,400 to 1,800 youth flights per week, peaking at 2,500 flights. Operations rely on tight coordination between the instructor pilot and the pit crew.
 
 ### The Ground Briefing
-When a young flyer enters the circle, registration volunteers introduce their instructor pilot. In the center of the 50-foot training circle, the instructor delivers a concise pre-flight briefing:
+When a young flyer enters the circle, registration volunteers introduce their instructor pilot. In the center of the 50-foot training circle, the instructor delivers a pre-flight briefing:
 * **Elevator Operation:** Tilting the wrist backward pulls the top line, raising the elevator to climb; tilting forward lowers the elevator to descend.
 * **Arm Extension & Line Tension:** Keeping the arm steady and walking in rhythm maintains the outward line tension needed to control the aircraft against gusting Oshkosh winds.
 
@@ -42,15 +42,13 @@ At the perimeter, the pit crew prepares the airplane.
 1. The pit crew member inspects the leadouts, connects the 3S LiPo battery, and starts the timer.
 2. With the motor spooling up to governed RPM, the pit crew launches the airplane. 
 
-### The Dual-Handle Technique
-As the airplane takes to the air, the instructor pilot stands side-by-side with the student. Using the dual-handle coaching method pioneered by the late Bob Arata and master instructors like Paul Barbour, the instructor places a reassuring hand directly over the student's on the handle.
-
+### The Single-Handle Technique
+As the airplane takes to the air, the instructor pilot stands side-by-side with the student. The instructor places his hand over the hand of the student to let the student get the feel of the airplane 
 First-time flyers naturally tend to over-control. The instructor's hand smooths out jerky movements and stabilizes level flight. The trainers are trimmed nose-heavy with desensitized control throws to keep the model forgiving. 
 
 Together, instructor and student guide the airplane through gentle climbs, level flight, and shallow descents. The student gets the genuine physical feel of the aircraft through the lines. Eight to 10 laps—about 90 seconds of flight time—is ideal for a first-timer. 
 
-After 90 seconds, the electronic timer ramps down motor power, and the airplane settles onto the grass in a smooth belly skid. The student leaves the circle to cheers from family, receiving an official KidVenture Pilot Certificate.
-
+After 90 seconds, the electronic timer ramps down motor power, and the airplane settles onto the grass in a smooth belly skid. The student leaves the circle to cheers from family.
 ---
 
 ## Airframe Evolution: From Balsa to the Eagle 1
@@ -58,9 +56,9 @@ After 90 seconds, the electronic timer ramps down motor power, and the airplane 
 Flying thousands of beginners in hot, humid, and windy conditions demanded decades of airframe evolution across five distinct eras:
 
 1. **Club Member Balsa Models (Early 1990s):** Founding members flew personal balsa trainers, supplying their own fuel, glow plugs, and propellers. Fragile balsa structures required constant field repairs.
-2. **Cox Plastic Ready-to-Fly (Mid 1990s):** The program tried commercial plastic trainers, such as the Cox PT-19 powered by .049 glow engines. They lacked power in gusty crosswinds, and molded plastic bodies cracked on rough grass arrivals.
+2. **Cox Plastic Ready-to-Fly (Mid 1990s):** The program tried commercial plastic trainers, such as the Cox PT-19 powered by .049 glow engines. They lacked power in gusty conditions, and molded plastic bodies cracked on rough grass arrivals.
 3. **Bratco Skybabies & Norvel .061s (Late 1990s–2000s):** Standardizing on Bratco Skybaby kits backed by SIG Manufacturing, the team adopted Norvel .061 Big Mig glow engines. While power was dependable, the high flight tempo caused two to three airframe casualties daily, requiring nightly rebuilds by master technician Art Johnson.
-4. **The Coroplast "Tuff Baby" (2010–2018):** On the drive home to St. Louis, Bob Arata and Dan McEntee designed an unbreakable trainer using 4mm fluted polypropylene (Coroplast yard signs) reinforced with wood spars. Drawn by Art Johnson, Bob Arata built five original *Tuff Babies* in 2010. Those five airframes flew thousands of flights over multiple seasons without retiring a single plane.
+4. **The Coroplast "Tuff Baby" (2010–2018):** On the drive home to St. Louis, Bob Arata and Dan McEntee designed an unbreakable trainer using 4mm fluted polypropylene (Coroplast yard signs) reinforced with wood spars. Bob Arata built five original *Tuff Babies* in 2010, drawn by Art Johnson. Those five airframes flew thousands of flights over multiple seasons without retiring a single plane.
 5. **The Modern Electric "Eagle 1" (Present):** Chairman Chris Sterner designed the current standard trainer, the Eagle 1. Built from 4mm Coroplast, it features a 30-1/4-inch wingspan, a 2807 brushless motor, and a dedicated solid-state electronic timer engineered by Dave Siegler. Electric power eliminated hot mufflers, glow fuel mess, starting batteries, and needle adjustments, allowing instant battery turnarounds and quiet reliability.
 
 *(Note: Complete construction details, full-size CAD plans, bill of materials, and Dave Siegler's electronic flight timer schematic for the Eagle 1 will be featured in a future construction article in Model Aviation.)*
