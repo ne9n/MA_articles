@@ -22,7 +22,7 @@ At KidVenture, the Control Line (CL) circles give young attendees the tactile th
 
 Control line flying at Oshkosh predates KidVenture. Seeking hands-on youth activities, Sean Elliott—a former Junior National Stunt Champion and future EAA Vice President—teamed up with Jim Krueger and the Milwaukee Circle Masters (AMA Charter #662).  This was to provide an activity for younger attendees at the EAA fly-in
 
-The initiative expanded after a memorable recruiting flight. Elliott flew EAA's full-scale *Spirit of St. Louis* replica to the annual SIG Manufacturing control contest in Montezuma, Iowa. Landing on the turf, Elliott and Krueger approached competitor Dan McEntee to recruit St. Louis modelers, including Bob Arata and Jan Potts, to join the Oshkosh flight line crew. That handshake in Iowa ignited an aeromodeling partnership that has united clubs across the Midwest for decades.
+The initiative expanded after a memorable recruiting flight. Elliott flew EAA's full-scale *Spirit of St. Louis* replica to the annual SIG Manufacturing control contest in Montezuma, Iowa. Landing on the turf of SIG field, Elliott and Krueger approached competitor Dan McEntee to recruit St. Louis modelers, including Bob Arata and Jan Potts, to join the Oshkosh flight line crew. That handshake in Iowa ignited an aeromodeling partnership that has united clubs across the Midwest for decades.
 
 ---
 
