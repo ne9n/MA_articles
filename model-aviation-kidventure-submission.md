@@ -16,6 +16,8 @@ At EAA AirVenture in Oshkosh, Wisconsin, one corner of Pioneer Airport delivers 
 
 At KidVenture, the Control Line (CL) circles give young attendees the physical feedback of flight. Holding a control handle tethered to dual steel lines, a child feels the mechanical pull of lift, the power of an electric brushless motor, and the immediate response of the elevator. Over 30 years, this volunteer-run program has introduced more than 25,000 youngsters to flight.
 
+Returning visitors, sometimes as pilots or engineers,   come back to give their children and grandchildren this experience
+
 ---
 
 ## The Roots of KidVenture Control Line
@@ -71,12 +73,14 @@ Flying thousands of beginners in hot and windy conditions demanded decades of ai
 
 ---
 
-## Notable Visitors & Industry Champions
+## Notable Visitors & Legacy 
 
 The flight line at Pioneer Airport frequently attracts notable visitors from across aviation. Renowned aircraft designer **Burt Rutan** and EAA Vice President **Sean Elliott** are regular visitors, stopping by to observe instruction and support the next generation of modelers. 
 
-The venue also draws international competitors, including French aerobatic champions **Gilbert and Véronique Béringer** (founders of Beringer Aero), who regularly visit the circles to coach youth and perform precision F2B aerobatic demonstrations.
----
+The venue also draws national and international competitors, including French aerobatic champions **Gilbert and Véronique Béringer** (founders of Beringer Aero), who regularly visit the circles to coach youth and perform precision F2B aerobatic demonstrations.
+
+
+--
 
 ## SIDEBAR: At a Glance — The KidVenture Eagle 1 Trainer
 
