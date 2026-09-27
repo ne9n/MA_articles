@@ -35,11 +35,11 @@ Together, the training circles handle 1,400 to 1,800 youth flights per week, pea
 ### The Ground Briefing
 When a young flyer enters the circle, registration volunteers introduce their instructor pilot. In the center of the 50-foot training circle, the instructor delivers a pre-flight briefing:
 * **Elevator Operation:** Tilting the wrist backward pulls the top line, raising the elevator to climb; tilting forward lowers the elevator to descend.
-* **Arm Extension & Line Tension:** Keeping the arm steady and walking in rhythm maintains the outward line tension needed to control the aircraft against gusting Oshkosh winds.
+* **Arm Extension & Line Tension:** Keeping the arm steady and walking in rhythm maintains the outward line tension needed to control the aircraft.
 
 ### Pit Crew & Hand Launch
 At the perimeter, the pit crew prepares the airplane.
-1. The pit crew member inspects the leadouts, connects the 3S LiPo battery, and starts the timer.
+1. The pit crew member inspects the leadouts, connects the 3S LiPo battery, indicates to the pilot he is ready, and waits for a signal to start the timer. 
 2. With the motor spooling up to governed RPM, the pit crew launches the airplane. 
 
 ### The Single-Handle Technique
@@ -58,8 +58,8 @@ Flying thousands of beginners in hot, humid, and windy conditions demanded decad
 1. **Club Member Balsa Models (Early 1990s):** Founding members flew personal balsa trainers, supplying their own fuel, glow plugs, and propellers. Fragile balsa structures required constant field repairs.
 2. **Cox Plastic Ready-to-Fly (Mid 1990s):** The program tried commercial plastic trainers, such as the Cox PT-19 powered by .049 glow engines. They lacked power in gusty conditions, and molded plastic bodies cracked on rough grass arrivals.
 3. **Bratco Skybabies & Norvel .061s (Late 1990s–2000s):** Standardizing on Bratco Skybaby kits backed by SIG Manufacturing, the team adopted Norvel .061 Big Mig glow engines. While power was dependable, the high flight tempo caused two to three airframe casualties daily, requiring nightly rebuilds by master technician Art Johnson.
-4. **The Coroplast "Tuff Baby" (2010–2018):** On the drive home to St. Louis, Bob Arata and Dan McEntee designed an unbreakable trainer using 4mm fluted polypropylene (Coroplast yard signs) reinforced with wood spars. Bob Arata built five original *Tuff Babies* in 2010, drawn by Art Johnson. Those five airframes flew thousands of flights over multiple seasons without retiring a single plane.
-5. **The Modern Electric "Eagle 1" (Present):** Chairman Chris Sterner designed the current standard trainer, the Eagle 1. Built from 4mm Coroplast, it features a 30-1/4-inch wingspan, a 2807 brushless motor, and a dedicated solid-state electronic timer engineered by Dave Siegler. Electric power eliminated hot mufflers, glow fuel mess, starting batteries, and needle adjustments, allowing instant battery turnarounds and quiet reliability.
+4. **The Coroplast "Tuff Baby" (2010–2023):** On the drive home to St. Louis, Bob Arata and Dan McEntee designed an unbreakable trainer using 4mm fluted polypropylene (Coroplast yard signs) reinforced with wood spars. Bob Arata built five original *Tuff Babies* in 2010, drawn by Art Johnson. Those five airframes flew thousands of flights over multiple seasons without retiring a single plane.  Plans are on the Circle Masters site. 
+5. **The Modern Electric "Eagle 1" (Present):** Chairman Chris Sterner designed the current standard trainer, the Eagle 1. Built from 4mm Coroplast, it features a 30-1/4-inch wingspan, a 2807 brushless motor, and a dedicated solid-state electronic timer engineered by Dave Siegler. Electric power eliminated hot mufflers, glow fuel mess, starting batteries, and needle adjustments, allowing instant battery turnarounds and good reliability.
 
 *(Note: Complete construction details, full-size CAD plans, bill of materials, and Dave Siegler's electronic flight timer schematic for the Eagle 1 will be featured in a future construction article in Model Aviation.)*
 
@@ -102,11 +102,11 @@ The true measure of KidVenture Control Line shows up years later:
 
 ---
 
-## Noon Airshow Demonstrations & Twilight Flying
+## Noon Airshow Demonstrations & Evening sport Flying
 
 In addition to youth training, the team takes to the larger demonstration circle during the daily noon airshow. When full-scale operations pause for lunch, master modelers demonstrate precision stunt, Carrier deck landings, Combat, and scale flying for the crowds.
 
-After youth instruction closes at 3:30 p.m., the flight line shifts to after-hours sport flying. High-speed pulse jet flights draw big crowds with their loud roar and red-hot tailpipes against the dusk sky. Later, the crew gathers at Camp Scholler for shared meals, hangar talk, and the traditional Wednesday night volunteer barbecue.
+After youth instruction closes at 3:30 p.m. and a beark, the flight line shifts to after-hours sport flying. High-speed pulse jet flights draw big crowds with their loud roar and red-hot tailpipes against the dusk sky. Later, the crew gathers at Camp Scholler for shared meals, hangar talk, and the traditional Wednesday night volunteer barbecue.
 
 ---
 
