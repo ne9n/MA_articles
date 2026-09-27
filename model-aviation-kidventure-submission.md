@@ -71,12 +71,11 @@ Flying thousands of beginners in hot and windy conditions demanded decades of ai
 
 ---
 
-## Notable Visitors & Legacy
+## Notable Visitors & Industry Champions
 
-Over three decades, the KidVenture control line circle has drawn more than just eager kids—it has frequently caught the attention of aviation legends, industry leaders, and media figures visiting AirVenture. From astronauts and legendary stunt fliers stopping by to watch the training in action, to aviation personalities trying their hand at the handle, the circles serve as a vibrant gathering place for the broader aeromodeling community. 
+The flight line at Pioneer Airport frequently attracts notable visitors from across aviation. Renowned aircraft designer **Burt Rutan** and EAA Vice President **Sean Elliott** are regular visitors, stopping by to observe instruction and support the next generation of modelers. 
 
-More importantly, the true legacy isn't just the famous faces who stop by, but the thousands of young participants who caught their first aviation spark right here on these grass circles—some of whom have grown up to become private pilots, aeronautical engineers, and active club members themselves.
-
+The venue also draws international competitors, including French aerobatic champions **Gilbert and Véronique Béringer** (founders of Beringer Aero), who regularly visit the circles to coach youth and perform precision F2B aerobatic demonstrations.
 ---
 
 ## SIDEBAR: At a Glance — The KidVenture Eagle 1 Trainer
