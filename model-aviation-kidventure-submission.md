@@ -40,7 +40,12 @@ When a young flyer enters the circle, registration volunteers introduce their in
 ### Pit Crew & Hand Launch
 At the perimeter, the pit crew prepares the airplane.
 1. The pit crew member inspects the leadouts, connects the 3S LiPo battery, indicates to the pilot he is ready, and waits for a signal to start the timer. 
-2. With the motor spooling up to governed RPM, the pit crew launches the airplane. 
+2. With the motor spooling up to governed RPM, the pit crew launches the airplane.
+### Battery Management
+
+To keep planes in the air all day, battery management is key. Thanks to multi-port chargers donated by **Thunder Power** and a generator loaned by **Honda**, we can keep power running right at the flight line. 
+
+We rotate a pool of 35 batteries, which also allows plenty of time for packs to cool down between charging and discharging. We charge them safely at 1C and swap them out before they drop below a conservative 40% capacity. This disciplined routine pays off: over three years of heavy daily use, only two or three batteries have failed—and those were due to crashes, not wear and tear.
 
 ### The Single-Handle Technique
 As the airplane takes to the air, the instructor pilot stands side-by-side with the student. The instructor places his hand over the hand of the student to let the student get the feel of the airplane 
