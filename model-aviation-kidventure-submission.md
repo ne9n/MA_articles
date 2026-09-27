@@ -20,7 +20,7 @@ At KidVenture, the Control Line (CL) circles give young attendees the physical f
 
 ## The Roots of KidVenture Control Line
 
-Control line flying at Oshkosh predates KidVenture. Seeking hands-on youth activities, Sean Elliott—a former Junior National Stunt Champion and future EAA Vice President—teamed up with Jim Krueger and the Milwaukee Circle Masters (AMA Charter #662).  This was to provide an activity for younger attendees at the EAA fly-in
+Control line flying at Oshkosh predates KidVenture. Seeking hands-on youth activities, Sean Elliott—a former Junior National Stunt Champion and future EAA Vice President—teamed up with Jim Krueger and the Milwaukee Circle Masters (AMA Charter #662) to provide an activity for younger attendees at the EAA fly-in.
 
 The initiative expanded after a recruiting flight. Elliott flew EAA's full-scale *Spirit of St. Louis* replica to the annual SIG Manufacturing control contest in Montezuma, Iowa. Landing on the turf of SIG field, Elliott and Krueger approached competitor Dan McEntee to recruit St. Louis modelers, including Bob Arata and Jan Potts, to join the Oshkosh flight line crew. That handshake in Iowa ignited an aeromodeling partnership that has united clubs across the Midwest for decades.
 
@@ -48,7 +48,7 @@ To keep planes in the air all day, battery management is key. Thanks to multi-po
 We rotate a pool of 35 batteries, which also allows plenty of time for packs to cool down between charging and discharging. We charge them safely at 1C and swap them out before they drop below a conservative 40% capacity. This disciplined routine pays off: over three years of heavy daily use, only two or three batteries have failed—and those were due to crashes, not wear and tear.
 
 ### The Single-Handle Technique
-As the airplane takes to the air, the instructor pilot stands side-by-side with the student. The instructor places his hand over the hand of the student to let the student get the feel of the airplane. 
+As the airplane takes to the air, the instructor pilot stands side-by-side with the student. The instructor wears the safety strap and places his hand over the hand of the student to let the student get the feel of the airplane. 
 First-time flyers naturally tend to over-control. The instructor's hand smooths out jerky movements and stabilizes level flight. The trainers are trimmed nose-heavy with desensitized control throws to keep the model forgiving. 
 
 Together, instructor and student guide the airplane through gentle climbs, level flight, and shallow descents. The student gets the genuine physical feel of the aircraft through the lines. Eight to 10 laps—about 90 seconds of flight time—is ideal for a first-timer. 
@@ -90,3 +90,11 @@ Flying thousands of beginners in hot and windy conditions demanded decades of ai
 | **Key Features** | Belly-skid landings; no landing gear; rapid 30-second battery swaps. |
 
 ---
+
+## References & Resources
+
+* **Milwaukee Circle Masters:** [circlemasters.com](https://circlemasters.com) (Club history, Tuff Baby plans, and local event schedules)
+* **EAA AirVenture & KidVenture:** [eaa.org/airventure](https://www.eaa.org/airventure)
+* **Thunder Power RC:** [thunderpowerrc.com](https://www.thunderpowerrc.com) (Multi-port charging support)
+* **Honda Power Equipment:** [powerequipment.honda.com](https://powerequipment.honda.com) (Reliable field generator support)
+* **Model Aviation Magazine:** [modelaviation.com](https://www.modelaviation.com)
