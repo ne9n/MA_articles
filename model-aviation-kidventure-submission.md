@@ -48,7 +48,7 @@ To keep planes in the air all day, battery management is key. Thanks to multi-po
 We rotate a pool of 35 batteries, which also allows plenty of time for packs to cool down between charging and discharging. We charge them safely at 1C and swap them out before they drop below a conservative 40% capacity. This disciplined routine pays off: over three years of heavy daily use, only two or three batteries have failed—and those were due to crashes, not wear and tear.
 
 ### The Single-Handle Technique
-As the airplane takes to the air, the instructor pilot stands side-by-side with the student. The instructor wears the safety strap and places his hand over the hand of the student to let the student get the feel of the airplane. 
+As the airplane takes to the air, the instructor pilot stands side-by-side with the student. The instructor places his hand over the hand of the student to let the student get the feel of the airplane. 
 First-time flyers naturally tend to over-control. The instructor's hand smooths out jerky movements and stabilizes level flight. The trainers are trimmed nose-heavy with desensitized control throws to keep the model forgiving. 
 
 Together, instructor and student guide the airplane through gentle climbs, level flight, and shallow descents. The student gets the genuine physical feel of the aircraft through the lines. Eight to 10 laps—about 90 seconds of flight time—is ideal for a first-timer. 
@@ -68,6 +68,14 @@ Flying thousands of beginners in hot and windy conditions demanded decades of ai
 5. **The Modern Electric "Eagle 1" (Present):** Chairman Chris Sterner designed the current standard trainer, the Eagle 1. Built from 4mm Coroplast, it features a 30-1/4-inch wingspan, a 2807 brushless motor, and a dedicated solid-state electronic timer engineered by Dave Siegler. Electric power eliminated the overheating, messy needle valves, and starting hassles of glow engines, which are simply not designed to survive over 100 runs a day.
 
 *(Note: Complete construction details, full-size CAD plans, bill of materials, and Dave Siegler's electronic flight timer schematic for the Eagle 1 will be featured in a future construction article in Model Aviation.)*
+
+---
+
+## Notable Visitors & Legacy
+
+Over three decades, the KidVenture control line circle has drawn more than just eager kids—it has frequently caught the attention of aviation legends, industry leaders, and media figures visiting AirVenture. From astronauts and legendary stunt fliers stopping by to watch the training in action, to aviation personalities trying their hand at the handle, the circles serve as a vibrant gathering place for the broader aeromodeling community. 
+
+More importantly, the true legacy isn't just the famous faces who stop by, but the thousands of young participants who caught their first aviation spark right here on these grass circles—some of whom have grown up to become private pilots, aeronautical engineers, and active club members themselves.
 
 ---
 
